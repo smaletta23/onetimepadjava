@@ -1,0 +1,1 @@
+This program utilizes the One Time Pad Encryption cypher to encrypt or decrypt Strings of text. Features a GUI, all in pure Java.
